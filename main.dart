@@ -11,5 +11,5 @@ double tempF = 80.6;
   // Texto que se usara para saber las ciudades a las cuales viajaeremos 
 
   
-    print ("$titulo \n \n El dia hoy la temperatura en grados centigrados es de $tempC");
+    print ("$titulo \n \n El dia hoy la temperatura en grados centigrados es de $tempC \n y la temperatura en grados celcius es de $tempF \n \n el tren se detendra en las siguientes ciudades \n $ciudades" );
   }
